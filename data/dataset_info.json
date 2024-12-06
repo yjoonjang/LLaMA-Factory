@@ -24,6 +24,9 @@
       "tools": "tools"
     }
   },
+  "markr_train": {
+    "file_name": "markr_train.json"
+  },
   "mllm_demo": {
     "file_name": "mllm_demo.json",
     "formatting": "sharegpt",
